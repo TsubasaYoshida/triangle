@@ -29,5 +29,5 @@ $ ruby triangle.rb 1, 2, 3
 
 ```
 bundle install
-bundle exec rspec
+bundle exec rspec spec/triangle_spec.rb -e "Triangle"
 ```
